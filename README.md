@@ -7,6 +7,9 @@ A tremendous number of X-ray imaging studies accompanied by radiological reports
 On the other side, it is still an open question how this type of hospital-size knowledge database containing invaluable imaging informatics (i.e., loosely labeled) can be used to facilitate the data-hungry deep learning paradigms in building truly large-scale high precision computeraided diagnosis (CAD) systems.
 
 Python 3.6
+
 Keras 2.3
+
 Tensrflow 2.0
+
 Colab GPU
