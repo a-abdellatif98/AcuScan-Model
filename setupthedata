@@ -1,0 +1,7 @@
+// move number of files
+for file in $(ls -p | grep -v / | tail -100)
+do
+mv $file /other/location
+done
+
+mv  -v ~/Downloads/* ~/Videos/
