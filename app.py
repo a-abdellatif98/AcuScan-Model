@@ -66,7 +66,7 @@ def analyze_image():
         model.load_weights("PreTraindModel.h5")
 
 
-        img = image.load_img("./update/"+filename,target_size=(224,224,3))
+        img = image.load_img(filename,target_size=(224,224,3))
         img = image.img_to_array(img)
         img = img/255
         # run the inference
