@@ -78,4 +78,5 @@ def analyze_image():
         return result
         import gc
         gc.collect()
+        os.remove(filename)
 
