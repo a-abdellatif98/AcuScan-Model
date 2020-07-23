@@ -76,5 +76,6 @@ def analyze_image():
     
         result = jsonify( {'first': classes[top_3[0]], 'second': classes[top_3[1]],'third': classes[top_3[2]] } )
         return result
-
+        import gc
+        gc.collect()
 
