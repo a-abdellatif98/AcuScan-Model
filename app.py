@@ -20,7 +20,7 @@ from tensorflow.keras.losses import categorical_crossentropy
 from PIL import Image
 
 
-UPLOAD_FOLDER = './update'
+UPLOAD_FOLDER = '.'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
 
 app = Flask(__name__)
