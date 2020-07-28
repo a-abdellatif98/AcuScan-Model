@@ -1,5 +1,6 @@
 # AcuScan
-Hospital Management system with 4 types of users and guest: Doctor, technical, receptionist, and Admin and patient the system has one more part which is the computer vision model which deals with X-Ray chest and diagnose them based on NIH chest-Xrays and reported also by the model and allowing to thew doctor to work fast in small time to review these reports
+The chest X-Ray examination is the most important part in diagnosing the human lung diseases, thus the chest x-ray must be diagnosed carefully by the specified doctors to make sure that the right diagnosis is made, so for achieving speed in this process and gaining accurate results the automation of report creation and diseases diagnose is a must due to doctors having too much work and they’re not distributed on the same locations all the time , so we are presenting a web-based solution for the diagnosis of chest x-ray , using artificial intelligence specifically, deep learning models, so we are making use the vivid hospital and radiology centers x-rays database which have been left unused, and by presenting this project we facilitate the process of diagnosis and report generation , so that it's easier for doctors and patients. <a href="https://github.com/a-abdellatif98/AcuScan">Web-based Solution</a>
+ 
 
 # AcuScan-Model 
 The chest X-ray is one of the most commonly accessible radiological examinations for screening and diagnosis of many lung diseases.
